@@ -19,7 +19,7 @@ create-react-app todo-app
 ```
 npm run start
 ```
-ブラウザで「http://localhost:3000\」にアクセスすると、Todoアプリを利用できます。
+ブラウザで「[http://localhost:3000](http://localhost:3000)」にアクセスすると、Todoアプリを利用できます。
 
 ## 使い方
 1. タイトル欄と詳細欄を入力し、タスクを登録する
